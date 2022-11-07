@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
+!pip install
 import plost
 from PIL import Image
 
@@ -11,8 +12,7 @@ with open('style.css') as f:
     st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
 
 # Data
-seattle_weather = pd.read_csv('https://raw.githubusercontent.com/tvst/plost/master/data/seattle-weather.csv', parse_dates=['date'])
-stocks = pd.read_csv('https://raw.githubusercontent.com/dataprofessor/data/master/stocks_toy.csv')
+seattle_weather = pd.read_csv('https://github.com/soyHenry/PI03-Analytics/blob/main/AccidentesAviones.csv')
 
 # Row A
 a1, a2, a3 = st.columns(3)
