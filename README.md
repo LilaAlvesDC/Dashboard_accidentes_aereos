@@ -47,7 +47,7 @@ Los países donde ocurrieron hubo mayor cantidad de personas con lesiones mortal
 
 Uno de los primeros planeadores modernos fue construido en *Estados Unidos* en el año 1883 de manera los registros analizados reflejan que durante los años 1908 y 1922 todas las victimas por accidentes aéreos fueron de Estados Unidos. 
 
-Por otro lado, Rusia registró su primera victima en el año 1923, siendo el año 1973 el año con mayor cantidad de Víctimas que coincide con el período de la vigencia de la Unión Soviética, la Guerra Fría y la Guerra de Vietnam. 
+Por otro lado, Rusia registró su primera victima en el año 1923, siendo el año 1973 el año con mayor cantidad de Víctimas que coincide con el período de la existencia de la Unión Soviética, la Guerra Fría y la Guerra de Vietnam. 
 
 Finalmente, el año que Brazil registró la mayor cantidad de víctimas por accidentes aéreos fue entre 2006 y 2009, período en el se registró el accidente más mortal de Air France en la historia, donde fallecieron 12 tripulantes y 216 pasajeros. 
  
@@ -77,10 +77,23 @@ En relación a la temporalidad identificamos los años con mayor cantidad de per
 En relación a los tipos de aeroplanos identificamos los años con mayor cantidad de personas con lesiones mortales fueron: 
 
  1. Douglas DC-3 (47.250 víctimas)
- 2. Antonov AN-26(12.250víctimas) 
+ 2. Antonov AN-26(12.250 víctimas) 
  3. Douglas C-47 (10.590 víctimas)
 
 ![Tipos de aeroplanos con mas accidentes](https://github.com/LilaAlvesDC/Dashboard_accidentes_aereos/blob/main/_str/Aeronaves%20con%20m%C3%A1s%20v%C3%ADctimas%20por%20accidentes%20de%20aviaci%C3%B3n.png?raw=true )
+
+## Conclusiones 
+
+En general principales causas que ocasionan accidentes aéreos son las siguientes: 
+1. Error de piloto 
+2. Fallos mecánicos 
+3. Meteorología adversa 
+4. Sabotaje 
+5. Error humano de controlador aéreo o persona en tierra 
+
+En nuestro análisis identificamos que los períodos, regiones y tipo de aeronaves con mayor cantidad de víctimas por accidentes áereos en la historia coinciden con períodos de conflictos bélicos. Con lo cual hay una destacada tendencia negativa que inició en el año 1972, mismo año que registró el mayor número de victimas, hasta la actualidad donde la cantidad de víctimas se ha reducido en un 94%. 
+
+Por último, en el año 2019 se registraron mas de 39 millones de vuelos de los cuales se registraron apenas 13 accidentes aéreos, con lo cual podemos concluir que en la actualidad las probabilidades de morir en un accidentes aéreo es 1 / 3 millones o 0,00003%. 
 
  ## Registro técnico del análisis de datos 
 
