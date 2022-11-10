@@ -42,11 +42,19 @@ Los países donde ocurrieron hubo mayor cantidad de personas con lesiones mortal
  1. Estados Unidos (193.110 víctimas)
  2. Rusia (83.690 víctimas)
  3. Brazil  (31.880 víctimas) 
+
+![Ubicaciones con mayor cantidad de accidentes aéreos](https://github.com/LilaAlvesDC/Dashboard_accidentes_aereos/blob/main/_str/Pa%C3%ADses%20con%20mayores%20v%C3%ADctimas%20por%20accidentes%20de%20aviaci%C3%B3n.png?raw=true)
+
+Uno de los primeros planeadores modernos fue construido en *Estados Unidos* en el año 1883 de manera los registros analizados reflejan que durante los años 1908 y 1922 todas las victimas por accidentes aéreos fueron de Estados Unidos. 
+
+Por otro lado, Rusia registró su primera victima en el año 1923, siendo el año 1973 el año con mayor cantidad de Víctimas que coincide con el período de la vigencia de la Unión Soviética, la Guerra Fría y la Guerra de Vietnam. 
+
+Finalmente, el año que Brazil registró la mayor cantidad de víctimas por accidentes aéreos fue entre 2006 y 2009, período en el se registró el accidente más mortal de Air France en la historia, donde fallecieron 12 tripulantes y 216 pasajeros. 
  
 #### Rutas
 Las principales rutas con mayor cantidad de personas con lesiones mortales provenientes de las ciudades: 
 
-1. Moscow, Rusia (21300víctimas)
+1. Moscow, Rusia (21.300víctimas)
 2. París, Francia (19.940 víctimas)
 3. Nueva York, Estados Unidos (19.260 víctimas) 
 
@@ -63,12 +71,16 @@ En relación a la temporalidad identificamos los años con mayor cantidad de per
  2. 1985 (25.900 victimas) 
  4. 1973 (23.230 victimas) 
 
+![Año con mayor cantidad de accidentes aereos](https://github.com/LilaAlvesDC/Dashboard_accidentes_aereos/blob/main/_str/A%C3%B1o%20con%20m%C3%A1s%20v%C3%ADctimas%20por%20accidentes%20de%20aviaci%C3%B3n.png?raw=true)
+
 #### Tipos de aeroplanos
 En relación a los tipos de aeroplanos identificamos los años con mayor cantidad de personas con lesiones mortales fueron: 
 
  1. Douglas DC-3 (47.250 víctimas)
  2. Antonov AN-26(12.250víctimas) 
  3. Douglas C-47 (10.590 víctimas)
+
+![Tipos de aeroplanos con mas accidentes](https://github.com/LilaAlvesDC/Dashboard_accidentes_aereos/blob/main/_str/Aeronaves%20con%20m%C3%A1s%20v%C3%ADctimas%20por%20accidentes%20de%20aviaci%C3%B3n.png?raw=true )
 
  ## Registro técnico del análisis de datos 
 
